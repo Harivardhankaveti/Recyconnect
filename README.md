@@ -1,3 +1,4 @@
+HEAD
 # ♻ WasteConnect - Smart Waste Exchange & Sustainability Hub
 
 A modern React-based waste management platform that connects communities for sustainable waste management, civic reporting, and environmental consciousness.
@@ -196,3 +197,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Happy Recycling! ♻️**
 
+
+# AAC

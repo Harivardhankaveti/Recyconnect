@@ -1,4 +1,4 @@
-HEAD
+
 # ♻ WasteConnect - Smart Waste Exchange & Sustainability Hub
 
 A modern React-based waste management platform that connects communities for sustainable waste management, civic reporting, and environmental consciousness.
